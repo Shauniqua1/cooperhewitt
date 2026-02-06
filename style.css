@@ -1,0 +1,31 @@
+*{padding: 10px; border-radius: 15px;font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+}
+.one{width:1000px ;box-shadow: 5px 5px 5px #686868 ;   margin: auto; background-color: #b78d6a; margin-top: 10px; padding: top 30px; height:800px;
+}
+.two{width:1000px ;box-shadow: 5px 5px 5px #686868 ;   margin: auto; background-color:#b78d6a;margin-top: 10px;padding: top 30px; height:800px;
+}
+
+.mainp{border-radius: 25px; margin: auto; display: flex; justify-content: center; width: 80%; padding-top: 10px;}
+.ogp{border-radius: 25px;margin: auto; display: flex; justify-content: center;width: 80%; padding-top: 10px;}
+body{background-color: #c5ae96;}
+.header{height: 50px; background-color:#7f886e ; text-align: center; width:90%; margin: 0 auto;}
+.a{font-size:2vh;margin: 0 auto;}
+.blue{color: blue;}
+.green{color:green}
+.red{color: red;}
+.all{display: flex; justify-content: center; align-items: stretch;flex-wrap: wrap; height:100%}
+.des1{width: 80%; margin: 0 auto; padding: bottom 15px;font-size: 1.5vh;color: #1b1b1b;}
+.des2{width: 80%; margin: 0 auto; padding: bottom 15px; font-size: 1.5vh; color: #1b1b1b;}
+
+@media screen and (max-width: 1000px) {
+
+
+  .one{width: 500px;}
+  .two{width: 500px;}
+  .des1{font-size: 1.2vh;}
+.des2{font-size: 1.2vh;}
+
+
+
+}
