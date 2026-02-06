@@ -17,6 +17,10 @@ body{background-color: #c5ae96;}
 .all{display: flex; justify-content: center; align-items: stretch;flex-wrap: wrap; height:100%}
 .des1{width: 80%; margin: 0 auto; padding: bottom 15px;font-size: 1.5vh;color: #1b1b1b;}
 .des2{width: 80%; margin: 0 auto; padding: bottom 15px; font-size: 1.5vh; color: #1b1b1b;}
+.shaunat{width: 40px;position: sticky; top: 0;  z-index: 1000; }
+.shaunat:hover {
+  cursor: pointer;
+}
 
 @media screen and (max-width: 1000px) {
 
